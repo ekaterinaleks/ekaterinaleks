@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [ekaterinaleks.github.io](ekaterinaleks.github.io)
 
-- 💬 Ask me about **MySQL | PostgreSQL | Python |Descriptive Statistics**
+- 💬 Ask me about **MySQL | PostgreSQL | Python | Descriptive Statistics**
 
 - 📫 How to reach me: **eremina.ekaterina.alex@gmail.com**
 
