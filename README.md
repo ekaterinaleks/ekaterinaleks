@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
-<h3 align="center">Curious about all things data.</h3>
+<h3 align="center">Curious about all things data</h3>
 
 - 🌱 I’m currently learning **NumPy | pandas | NLTK | Git**
 
