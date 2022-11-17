@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
 <h3 align="center">Curious about all things data</h3>
 
-- 🌱 I’m currently learning **NumPy | pandas | NLTK | Git**
+- 🌱 I’m currently learning **NumPy | pandas | NLTK | seaborn**
 
-- 👨‍💻 All of my projects are available at [ekaterinaleks.github.io](ekaterinaleks.github.io)
-
-- 💬 Ask me about **MySQL | PostgreSQL | Python | Descriptive Statistics**
+- 💬 Ask me about **MySQL | PostgreSQL | Python | Descriptive Statistics | Tableau**
 
 - 📫 How to reach me: **eremina.ekaterina.alex@gmail.com**
 
