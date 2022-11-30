@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **MySQL | PostgreSQL | Python | Descriptive Statistics | Tableau**
 
+- 👨‍💻 My Portfolio is available at https://ekaterinaleks.github.io/
+
 - 📫 How to reach me: **eremina.ekaterina.alex@gmail.com**
 
 - 📜 **Addicted to coffee :coffee: and learning new things 🧠**
