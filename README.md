@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
 <h3 align="center">Curious about all things data</h3>
 
-- 🌱 I’m currently learning **NumPy | pandas | NLTK | seaborn**
+- 🌱 I’m currently learning **scikit-learn | matplotlib | seaborn | NLTK | Inferential Statistics**
 
-- 💬 Ask me about **MySQL | PostgreSQL | Python | Descriptive Statistics | Tableau**
+- 💬 Ask me about **MySQL | PostgreSQL | Python | pandas| NumPy | Descriptive Statistics | Tableau**
 
 - 👨‍💻 My Portfolio is available at https://ekaterinaleks.github.io/
 
