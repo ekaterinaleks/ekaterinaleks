@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
 <h3 align="center">Curious about all things data</h3>
 
-- 🌱 I’m currently learning **scikit-learn | matplotlib | seaborn | NLTK | Inferential Statistics**
+- 🌱 I’m currently learning **scikit-learn | matplotlib | seaborn | NLTK | Inferential Statistics | Data mining | R** 
 
 - 💬 Ask me about **MySQL | PostgreSQL | Python | pandas| NumPy | Descriptive Statistics | Tableau**
 
