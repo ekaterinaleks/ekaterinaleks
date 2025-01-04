@@ -39,13 +39,19 @@
  </p>
  
 <p align="left"> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc"/> </a>
+ <a href="https://cloud.google.com/"> <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud%20Platform-%234285f3?style=for-the-badge&logo=googlecloud&logoSize=auto&labelColor=%23616262"> </a>
+ <a href="https://www.docker.com/"> <img alt="Docker" src="https://img.shields.io/badge/docker-%2300084d?style=for-the-badge&logo=docker&logoSize=auto&labelColor=000637" alt="vsc"/> </a>
+  <a href="https://jupyter.org/"> <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23767677?style=for-the-badge&logo=jupyter&logoSize=auto&labelColor=%23616262"> </a>
+   <a href="https://code.visualstudio.com/"> <img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> </a>
  </p>
  
  <p align="left"> 
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"> <img alt="PBI" src="https://img.shields.io/badge/powerbi-%23efc73a?style=for-the-badge&logo=powerbi&logoColor=black&logoSize=auto&labelColor=0C8D6D"> </a>
-<a href="https://www.tableau.com/"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/> </a> </p>
+<a href="https://www.tableau.com/"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/> </a> 
+ <a href="https://matplotlib.org/">  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%2365baea?style=for-the-badge&logoSize=auto"> </a> 
+  <a href="https://seaborn.pydata.org/">  <img alt="seaborn" src="https://img.shields.io/badge/seaborn-%23423663?style=for-the-badge&logoSize=auto"> </a> 
+ </p>
+
 <!---
 ekaterinaleks/ekaterinaleks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
