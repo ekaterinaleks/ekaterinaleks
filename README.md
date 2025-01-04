@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
 <h3 align="center">Curious about all things data</h3>
 
-- 🌱 I’m currently learning **RAG | LangChain | Vector Databases | Inferential Statistics | MLOps** 
+🌱 I’m currently learning **RAG | LangChain | Vector Databases | Inferential Statistics | MLOps** 
 
-- 💬 Ask me about **pandas | NLP | Recommenders | SQL | BigQuery | DataForm |  GCP | Docker | Descriptive Statistics | Tableau | PowerBI**
+💬 Ask me about **pandas | NLP | Recommenders | SQL | BigQuery | DataForm |  GCP | Docker | Descriptive Statistics | Tableau | PowerBI**
 
-- 👨‍💻 My Portfolio is available at https://ekaterinaleks.github.io/
+👨‍💻 My Portfolio is available at **https://ekaterinaleks.github.io/**
 
-- 📫 How to reach me: **eremina.ekaterina.alex@gmail.com**
+📫 How to reach me: **eremina.ekaterina.alex@gmail.com**
 
-- 📜 **Addicted to coffee :coffee: and learning new things 🧠**
+📜 **Addicted to coffee :coffee: and learning new things 🧠**
+<br></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ekaterina-eremina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ekaterina-eremina/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ekaterina-eremina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
