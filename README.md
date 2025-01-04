@@ -33,6 +33,7 @@
  <a href="https://huggingface.co/"> <img alt="HuggingFace" src="https://img.shields.io/badge/hugging_face-%23ffd21e?style=for-the-badge&logo=huggingface&logoColor=%23ff9d0b&logoSize=auto&labelColor=gray"> </a>
  <a href="https://www.langchain.com/"> <img alt="LangChain" src="https://img.shields.io/badge/langchain-255252?style=for-the-badge&logo=langchain&logoColor=white&logoSize=auto&labelColor=%231c3c3c"> </a>
  <a href="https://ollama.com/"> <img alt="Ollama" src="https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black&logoSize=auto&labelColor=FCF9F3"> </a>
+  <a href="https://openai.com/api"> <img alt="OpenAI API" src="https://img.shields.io/badge/openai_api-%230ea47e?style=for-the-badge&logo=openai&logoColor=black&logoSize=auto&labelColor=0C8D6D"> </a>
   <a href="https://www.pinecone.io/"> <img alt="Pinecone" src="https://img.shields.io/badge/pinecone-%23394ebb?style=for-the-badge&logo=pinecone&logoColor=black&logoSize=auto&labelColor=%23394ebb"> </a>
   <a href="https://www.elastic.co/"> <img alt="Elasticsearch" src="https://img.shields.io/badge/elasticsearch-2E887E?style=for-the-badge&logo=elasticsearch&logoColor=black&logoSize=auto&labelColor=1B746A"> </a>
  </p>
@@ -40,8 +41,11 @@
 <p align="left"> 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc"/> </a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="pbi"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/> </a> </p>
+ </p>
+ 
+ <p align="left"> 
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"> <img alt="PBI" src="https://img.shields.io/badge/powerbi-%23efc73a?style=for-the-badge&logo=powerbi&logoColor=black&logoSize=auto&labelColor=0C8D6D"> </a>
+<a href="https://www.tableau.com/"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/> </a> </p>
 <!---
 ekaterinaleks/ekaterinaleks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
