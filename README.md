@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
 <h3 align="center">Curious about all things data</h3>
 
-🌱 I’m currently learning **RAG | LangChain | Vector Databases | Inferential Statistics | MLOps** 
+Machine Learning Engineer based in Barcelona.
 
-💬 Ask me about **pandas | NLP | Recommenders | SQL | BigQuery | DataForm |  GCP | Docker | Descriptive Statistics | Tableau | PowerBI**
+I work mainly with machine learning, retrieval, recommender systems, and agentic AI.
 
-👨‍💻 My Portfolio is available at **https://ekaterinaleks.github.io/**
+This GitHub contains personal projects, experiments, and technical explorations around those areas.
 
 📫 How to reach me: **eremina.ekaterina.alex@gmail.com**
 
