@@ -32,6 +32,8 @@ Lately I’ve been especially interested in:
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![TensorFlow Recommenders](https://img.shields.io/badge/TensorFlow%20Recommenders-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![implicit](https://img.shields.io/badge/implicit-4B5563?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ### Data & infrastructure
