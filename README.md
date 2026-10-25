@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
-<h3 align="center">Curious about all things data</h3>
+Machine Learning Engineer · Barcelona
 
-Machine Learning Engineer based in Barcelona.
-
-I work mainly with machine learning, retrieval, recommender systems, and agentic AI.
-
-This GitHub contains personal projects, experiments, and technical explorations around those areas.
+ML · Retrieval · Recommender Systems · Agentic AI · Evaluation
 
 📫 How to reach me: **eremina.ekaterina.alex@gmail.com**
 
