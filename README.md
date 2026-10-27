@@ -1,14 +1,13 @@
 # Hi 👋, I'm Ekaterina
 
-Machine Learning Engineer based in Barcelona.
+Machine Learning Engineer and Data Scientist based in Barcelona.
 
 I like experimenting and benchmarking, but most of my work starts after the notebook: making ML systems reliable, measurable, and useful in production.
 
 Lately I’ve been especially interested in:
 
 - making agentic systems more reliable
-- retrieval and ranking
-- recommender systems
+- retrieval and recommender systems
 - evaluation, guardrails, and red teaming
 - making ML systems faster, cheaper, and easier to reason about
 
